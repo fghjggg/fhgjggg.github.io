@@ -1,0 +1,11 @@
+Package: com.yourcompany.alt
+Version: 1.0
+Section: Utilities
+Maintainer: Thanh
+Architectures : iphoneos-arm iphoneos-arm64
+Filename: ./debs/com.yourcompany.alt_0.0.1-2523+debug_iphoneos-arm.deb
+Size: 10000
+MD5sum: bc054acec49293e7427f732f609fbea5
+Description: Test 10 11 2023
+Name: ALT
+Author: Thanh
